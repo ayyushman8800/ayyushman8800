@@ -1,4 +1,4 @@
-# Hi, I'm Ayyushman
+# Hi, I'm Ayushman
 
 ## Interests
 - AI & automation
